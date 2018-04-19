@@ -1,0 +1,1 @@
+In reality, plain text is the most predominant form of data available today. Text analysis applies analysis of word frequency distributions, pattern recognition, tagging, link and association analysis, sentiment analysis, and visualization. Natural Language Processing is a broad topic, Machine Translation, Summarizing texts, spam detection, sentiment analysis are real big field. 
